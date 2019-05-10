@@ -6,4 +6,5 @@
 
 ## 国外比赛
   * [A searchable compilation of Kaggle past solutions](https://github.com/EliotAndres/kaggle-past-solutions)
-  * [dogs-vs-cats Kaggle competition](https://github.com/zhilonglu/dogs_vs_cats)
+  * [dogs-vs-cats Kaggle competition](https://github.com/kastnerkyle/kaggle-dogs-vs-cats)
+  * [kaggle-recruit-restaurant](https://github.com/MaxHalford/kaggle-recruit-restaurant)
